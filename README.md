@@ -5,7 +5,7 @@
 
 <div align="center"> 
 
- ![Profile views](https://gpvc.arturio.dev/me-Shahriyar)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=me-shahriyar&label=Profile%20views&color=0e75b6&style=flat" alt="me-shahriyar" /> </p>
 
 <h4>Welcome to my GitHub profile. I am Shahriyar Hossain (Saikoth). Learning programming & Web Development.</h4>
 <hr>
@@ -27,11 +27,12 @@
 
 <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-Shahriyar)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=me-Shahriyar&show_icons=true&count_private=true) 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-shahriyar&show_icons=true&locale=en&layout=compact" alt="me-shahriyar" /></p>
  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=me-Shahriyar) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-shahriyar&show_icons=true&locale=en" alt="me-shahriyar" /></p>
+
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-shahriyar&" alt="me-shahriyar" /></p> 
 
 ![GitHub metrics](https://metrics.lecoq.io/me-Shahriyar)  
 
