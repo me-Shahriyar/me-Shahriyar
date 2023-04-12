@@ -19,8 +19,8 @@
 <br> <br> 
 
 👨🏻‍🎓 <h3>Education</h3>
- BSc in CSE
- Varendra University,
+ BSc in CSE <br>
+ Varendra University, <br>
  Rajshahi, Bangladesh
  
 <hr>
