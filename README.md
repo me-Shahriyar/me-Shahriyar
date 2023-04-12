@@ -18,7 +18,7 @@
 📊 All of my projects are available at **[https://github.com/me-Shahriyar](https://github.com/me-Shahriyar)** <br>
 <br> <br> 
 
-👨🏻‍🎓 <h3>Education</h3>
+### 👨🏻‍🎓 Education
  BSc in CSE <br>
  Varendra University, <br>
  Rajshahi, Bangladesh
