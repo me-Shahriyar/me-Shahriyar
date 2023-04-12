@@ -16,7 +16,11 @@
 🌱 I’m currently learning **JavaScript** <br>
 💬 Ask me about **HTML, CSS, C** <br>
 📊 All of my projects are available at **[https://github.com/me-Shahriyar](https://github.com/me-Shahriyar)** <br>
-📫 How to reach me: **shahriyar2098@gmail.com** <br>
+<br> <br>
+🏙 <h3>Education</h3>
+<p>BSc in CSE</P>
+<p>Varendra University,</P>
+<p>Rajshahi, Bangladesh</P>
  
 <hr>
 
