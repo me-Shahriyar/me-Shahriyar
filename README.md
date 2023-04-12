@@ -25,7 +25,12 @@
  
 <br><br>
 ### 👨🏻‍ Language 
-<ul><li>Bangla : Native</li><li>English : Intermediate</li></ul>
+<ul>
+ <li>Bangla : Native</li>
+ <li>English : Intermediate</li>
+ <li>Arabic: Begineer</li>
+ <li>Hindi: Begineer</li>
+</ul>
 <br><br>
  
 <hr>
