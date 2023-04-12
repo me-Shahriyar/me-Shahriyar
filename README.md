@@ -23,6 +23,11 @@
  Varendra University, <br>
  Rajshahi, Bangladesh
  
+<br><br>
+### 👨🏻‍ Language 
+<ul><li>Bangla : Native</li><li>English : Intermediate</li></ul>
+<br><br>
+ 
 <hr>
 
 <div align="center">
