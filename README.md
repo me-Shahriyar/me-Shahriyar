@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/me-Shahriyar/me-Shahriyar/blob/main/Banner2.png)](https://github.com/me-Shahriyar)
 
-<h1 align="center">Hello World, I'm Md. Shahriyar Hossain Saikoth</h1>
-<h3 align="center">Learning Programming & Web Development</h3>
+<h1 align="center">Hello World!</h1>
+<h3 align="center">I'm Md. Shahriyar Hossain Saikoth</h3>
 
 <div align="center"> 
 
-<h4>Welcome to my GitHub profile. I am Md. Shahriyar Hossain Saikoth. Learning programming & Web Development.</h4>
+<h4>Welcome to my GitHub profile.</h4>
 <hr>
 <br>
 </div>
