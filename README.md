@@ -55,11 +55,9 @@
 <h3>Connect With Me:</h3>
 <p>
 <a href="https://www.facebook.com/me.Shahriyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook: Shahriyar" height="30" width="40" /></a>
- 
 <a href="https://www.linkedin.com/in/me-shahriyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: Shahriyar" height="30" width="40" /></a>
-
 <a href="https://www.github.com/me-Shahriyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github: Shahriyar" height="30" width="40" /></a>
-
+<a href="https://medium.com/@me.Shahriyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium: Shahriyar" height="30" width="40" /></a>
 
 </p>
 </div>
