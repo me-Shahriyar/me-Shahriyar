@@ -10,16 +10,19 @@
 🔭 I’m currently working on **My personal portfolio** <br>
 🌱 I’m currently learning **JavaScript** <br>
 💬 Ask me about **HTML, CSS, C** <br>
-📊 All of my projects are available at my **[Github](https://github.com/me-Shahriyar)** profile.<br>
-👋 How can you reach me: **[Telegram](https://t.me/me_Shahriyar6)** or **[Messenger](https://m.me/me.Shahriyar)**
-<br> <br>
+📊 All of my projects are available at my [![GitHub](https://img.shields.io/badge/Github-%231877F2.svg?logo=Github&logoColor=black)](https://github.com/me-Shahriyar) 
+
+👋 You can knock me at  [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=#1A8AD5)](https://t.me/me_Shahriyar6)   or  [![Messenger](https://img.shields.io/badge/Messenger-%231877F2.svg?logo=Messenger&logoColor=#F45E6F)](https://m.me/me.Shahriyar)
+
+<br>
 
 ### 👨🏻‍🎓 Education:
  Bachelor of Science in Computer Science and Engineering <br>
  Varendra University, <br>
  Rajshahi, Bangladesh
  
-<br><br>
+<br>
+
 ### 👨🏻‍ Language:
 <ul>
  <li>Bangla : Native</li>
@@ -40,6 +43,8 @@
 <br> <br> <br>
 
 <h3 align="center">⚡ My Github Stats</h3> <br>
+
+[![](https://visitcount.itsvg.in/api?id=me-Shahriyar&icon=7&color=8)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-Shahriyar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
