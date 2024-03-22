@@ -10,7 +10,8 @@
 🔭 I’m currently working on **My personal portfolio** <br>
 🌱 I’m currently learning **JavaScript** <br>
 💬 Ask me about **HTML, CSS, C** <br>
-📊 All of my projects are available at **[https://github.com/me-Shahriyar](https://github.com/me-Shahriyar)** <br>
+📊 All of my projects are available at my **[Github](https://github.com/me-Shahriyar)** profile.<br>
+👋 How can you reach me: **[Telegram](https://t.me/me_Shahriyar6)** or **[Messenger](https://m.me/me.Shahriyar)**
 <br> <br>
 
 ### 👨🏻‍🎓 Education:
@@ -29,21 +30,19 @@
 <hr>
 
 <div align="center">
-
+<br>
 <h3>⚙ Languages - Tools - Frameworks ⚙</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,mysql"/>
+    <br>
 </div>
+<br> <br>
 
-<br>
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-shahriyar&show_icons=true&locale=en&layout=compact" alt="me-shahriyar" /></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-shahriyar&show_icons=true&locale=en" alt="me-shahriyar" /></p>
 
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-shahriyar&" alt="me-shahriyar" /></p> 
+
+
+
 
 
 <h3>Github Trophy:</h3>
