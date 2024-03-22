@@ -31,23 +31,24 @@
 
 <div align="center">
 <br>
-<h3>⚙ Languages - Tools - Frameworks ⚙</h3>
+<h3>⚙ Languages - Tools - Frameworks</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br>
     <img src="https://skillicons.dev/icons?i=javascript,c,cpp,mysql"/>
     <br>
 </div>
-<br> <br>
+<br> <br> <br>
+
+<h3 align="center">⚡ My Github Stats</h3> <br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-Shahriyar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=me-Shahriyar&theme=radical&hide_border=false)<br/>
 
 
+<h3 align="center">🏆 GitHub Trophies</h3> <br> 
 
-
-
-
-
-<h3>Github Trophy:</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=me-Shahriyar)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=me-Shahriyar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3>Connect With Me:</h3>
 <p>
