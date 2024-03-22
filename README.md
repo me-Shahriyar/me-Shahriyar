@@ -30,7 +30,7 @@
  <li>Arabic: Begineer</li>
  <li>Hindi: Begineer</li>
 </ul>
-<hr>
+<h2></h4>
 
 <div align="center">
 <br>
@@ -40,14 +40,14 @@
     <img src="https://skillicons.dev/icons?i=javascript,c,cpp,mysql"/>
     <br>
 </div>
-<br> <br> <br>
+<br> <br>
 
-<h3 align="center">⚡ My Github Stats</h3> <br>
+<h3 align="center">⚡ My Github Stats</h3>
 
 [![](https://visitcount.itsvg.in/api?id=me-Shahriyar&icon=7&color=8)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-Shahriyar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-Shahriyar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=me-Shahriyar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-Shahriyar&theme=radical&hide_border=false)<br/>
 
 
