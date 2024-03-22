@@ -1,42 +1,40 @@
 [![MasterHead](https://github.com/me-Shahriyar/me-Shahriyar/blob/main/Banner2.png)](https://github.com/me-Shahriyar)
 
-<h1 align="center">Hello World!</h1>
-<h3 align="center">I'm Md. Shahriyar Hossain Saikoth</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Shahriyar+!;" />
+</h1>
 
-<div align="center"> 
-
-<h4>Welcome to my GitHub profile.</h4>
-<hr>
-<br>
-</div>
+<h3 align="center">A Passionate Web Developer & Tech Enthusiast from Bangladesh</h3>
+<br> <br>
  
 🔭 I’m currently working on **My personal portfolio** <br>
 🌱 I’m currently learning **JavaScript** <br>
 💬 Ask me about **HTML, CSS, C** <br>
 📊 All of my projects are available at **[https://github.com/me-Shahriyar](https://github.com/me-Shahriyar)** <br>
-<br> <br> 
+<br> <br>
 
-### 👨🏻‍🎓 Education
- BSc in CSE <br>
+### 👨🏻‍🎓 Education:
+ Bachelor of Science in Computer Science and Engineering <br>
  Varendra University, <br>
  Rajshahi, Bangladesh
  
 <br><br>
-### 👨🏻‍ Language 
+### 👨🏻‍ Language:
 <ul>
  <li>Bangla : Native</li>
  <li>English : Intermediate</li>
  <li>Arabic: Begineer</li>
  <li>Hindi: Begineer</li>
 </ul>
-<br><br>
- 
 <hr>
 
 <div align="center">
 
-<h3>Languages and Tools:</h3>
-<p> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<h3>⚙ Languages - Tools - Frameworks ⚙</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,mysql"/><br>
+</div>
 
 <br>
  
